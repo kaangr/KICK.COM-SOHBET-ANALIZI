@@ -27,4 +27,4 @@ Arka ucu çalıştırın:
  `uvicorn app:app --host 0.0.0.0 --port 8000 --reload `
 
 
-Sohbet günlüğü CSV dosyanızı arayüz üzerinden yükleyin. 
+Sohbet günlüğü CSV dosyanızı arayüz üzerinden yükleyin. ![0520(1)](https://github.com/user-attachments/assets/09510447-c5b6-41da-8e89-265ec222cbac)
