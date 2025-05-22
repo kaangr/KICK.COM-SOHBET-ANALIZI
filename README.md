@@ -1,3 +1,8 @@
+
+
+![WhatsApp Görsel 2025-05-22 saat 08 53 22_7c7cba08](https://github.com/user-attachments/assets/8f1b054e-237b-4748-98d3-2a583b86459a)
+
+
 # Topluluk Etkileşim Analizcisi
 
 Yayıncılara izleyici etkileşimleri hakkında içgörüler sağlamak amacıyla Kick.com sohbet günlüklerini analiz etmek için kullanılan hafif bir NLP tabanlı araçtır.
