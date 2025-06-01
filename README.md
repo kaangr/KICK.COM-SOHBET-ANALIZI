@@ -15,13 +15,19 @@ Yayıncılara izleyici etkileşimleri hakkında içgörüler sağlamak amacıyla
     - Windows: `.\venv\Scripts\activate`
     - macOS/Linux: `source venv/bin/activate`
 4.  Bağımlılıkları yükleyin: `pip install -r requirements.txt`
-5.  NLTK verilerini indirin (bunu Python yorumlayıcısında çalıştırın):
+5.  NLTK verilerini indirin (bunu Python yorumlayıcısında çalıştırın~ terminanlden python yazarak erişebilirsiniz.):
     ```python
     import nltk
     nltk.download('punkt')
     nltk.download('stopwords')
     nltk.download('wordnet')
     ```
+Opsiyonel: Eğer punkt verileri doğru bir şekilde indirilmiyorsa;
+```python
+import nltk
+nltk.download('punkt_tab') # punk_tab sorununuzu çözücektir.
+```
+
 
 ## Kullanım
 
